@@ -1,2 +1,2 @@
-web: node frontend/src/
+web: node frontend/
 api: heroku-php-apache2 public/
