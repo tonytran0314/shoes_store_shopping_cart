@@ -1,1 +1,1 @@
-web: node frontend/
+web: heroku-php-apache2 public/
